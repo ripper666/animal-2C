@@ -8,8 +8,8 @@ public class KaryawanTest{
 	p.setGaji(60);
 	System.out.println(" ");
 
-	System.out.println("Jabatan Programer");
-	Program pr = new Program();
+	System.out.println("Jabatan Programmer");
+	Programmer pr = new Programmer();
 	pr.setNama("Adjie");
 	p.setAlamat("Pecuk");
 	p.setGaji(85);
